@@ -1,0 +1,10 @@
+C:\Code\Math\AnagramMathSolver\Solver\obj\Debug\netcoreapp2.0\Solver.csproj.CoreCompileInputs.cache
+C:\Code\Math\AnagramMathSolver\Solver\obj\Debug\netcoreapp2.0\Solver.AssemblyInfoInputs.cache
+C:\Code\Math\AnagramMathSolver\Solver\obj\Debug\netcoreapp2.0\Solver.AssemblyInfo.cs
+C:\Code\Math\AnagramMathSolver\Solver\bin\Debug\netcoreapp2.0\Solver.deps.json
+C:\Code\Math\AnagramMathSolver\Solver\bin\Debug\netcoreapp2.0\Solver.runtimeconfig.json
+C:\Code\Math\AnagramMathSolver\Solver\bin\Debug\netcoreapp2.0\Solver.runtimeconfig.dev.json
+C:\Code\Math\AnagramMathSolver\Solver\bin\Debug\netcoreapp2.0\Solver.dll
+C:\Code\Math\AnagramMathSolver\Solver\bin\Debug\netcoreapp2.0\Solver.pdb
+C:\Code\Math\AnagramMathSolver\Solver\obj\Debug\netcoreapp2.0\Solver.dll
+C:\Code\Math\AnagramMathSolver\Solver\obj\Debug\netcoreapp2.0\Solver.pdb
